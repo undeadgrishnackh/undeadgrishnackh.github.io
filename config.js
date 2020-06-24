@@ -4,10 +4,10 @@ module.exports = {
   url: 'https://undeadgrishnackh.github.io/',
   pathPrefix: '/',
   title: 'Michele Brissoni',
-  subtitle: '🤓 SW craftsman\n🥋 trainer\n 🥰 Racing',
+  subtitle: '🤓 SW craftsman 🥋 trainer 🥰 Racing',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-170527662-1',
   useKatex: false,
   menu: [
@@ -20,14 +20,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact me for',
       path: '/pages/contactMe'
     },
   ],
   author: {
     name: 'Michele Brissoni',
     photo: '/photo.jpg',
-    bio: '🤓 SW craftsman\n🥋 trainer\n 🥰 Racing',
+    bio: '🤓SW craftsman 🥋trainer 🥰Racing',
     contacts: {
       twitter: 'michelebrissoni',
       linkedin: 'michelebrissoni',
