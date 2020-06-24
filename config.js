@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://undeadgrishnackh.github.io/',
   pathPrefix: '/',
   title: 'Michele Brissoni',
-  subtitle: '🤓 SW craftman\n🥋 trainer\n 🥰 Ducati',
+  subtitle: '🤓 SW craftsman\n🥋 trainer\n 🥰 Racing',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Michele Brissoni',
     photo: '/photo.jpg',
-    bio: '🤓 SW craftman\n🥋 trainer\n 🥰 Ducati',
+    bio: '🤓 SW craftsman\n🥋 trainer\n 🥰 Racing',
     contacts: {
       twitter: 'michelebrissoni',
       linkedin: 'michelebrissoni',
