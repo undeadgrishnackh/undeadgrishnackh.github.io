@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Michele Brissoni',
     photo: '/photo.jpg',
-    bio: '🤓SW craftsman 🥋trainer 🥰Racing',
+    bio: '🤓 SW craftsman 🥋 trainer 🥰 Racing',
     contacts: {
       twitter: 'michelebrissoni',
       linkedin: 'michelebrissoni',

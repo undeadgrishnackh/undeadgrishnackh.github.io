@@ -6,6 +6,7 @@ import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
+import Subscribe from '../mailchimp/subscribe';
 
 type Props = {
   isIndex?: boolean,
@@ -21,6 +22,8 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
+      <p/>
+      <Subscribe/>
       </div>
     </div>
   );
