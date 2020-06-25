@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://undeadgrishnackh.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://undeadgrishnackh.github.io/pages/contactMe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/posts/IBM Fest 2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/posts/Italians in Slovakia - Taliani na Slovensku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/posts/Agile Venture Vimercate 2019 - DevOps adoption through behavioral change</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/posts/Accelerate engineering agility everywhere - Cesare Baroni - Michele Brissoni</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/posts/Human of CIO - Michele Brissoni</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/posts/What is DevOps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/pages/contactMe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/tag/dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/tag/tdd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/tag/xp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/about-me</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/conference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/okr</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/relocation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/sre</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/tag/the-ecosystem</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/category/conference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/category/dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://undeadgrishnackh.github.io/category/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://undeadgrishnackh.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
