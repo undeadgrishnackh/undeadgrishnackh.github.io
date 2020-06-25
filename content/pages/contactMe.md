@@ -9,7 +9,7 @@ If you or your company are interested in growing and transforming into a **digit
 ### Enterprise transformation 🏆
 
 + **Agile transformation** from team and individuals to enterprise corporations
-+ DevOps, RuggedDevOps, DesSecOps, everything to be an Elite organization (see my conferences)
++ DevOps, RuggedDevOps, DevSecOps, everything to be an Elite organization (see my conferences)
 + DesignOps, LeanUx, from project to product and user centric 
 + SW craftsmanship and eXtreme Programming training and team coaching
 
@@ -21,5 +21,5 @@ If you or your company are interested in growing and transforming into a **digit
 
 ### Martial Arts 🤼 🥋 🥊 and gym training 🏋️
 
-+ **Self defense**, JuJitsu, Judo, JKD, Thay Boxe, Kick Boxing
++ **Self defense**, JuJitsu, Judo, JKD, Thai Boxe, Kick Boxing
 + available for personal training
