@@ -1,10 +1,10 @@
 ---
-title: "About me"
+title: "Michele Brissoni"
 template: "page"
 socialImage: "/media/dolomites.jpg"
 ---
 
-I'm a mountain man born in the north of Italy and this was the horizon I saw for years with always the idea that one day I'd be able to go beyond these pikes were surrounding me.
+I'm a mountain man born in the north of Italy 🇮🇹 and this was the horizon I saw for years with always the idea that one day I'd be able to go beyond these pikes were surrounding me.
 
 ![dolomites](/media/about/dolomites.jpg)
 
@@ -14,10 +14,17 @@ But besides all this testosterone madness my parents helped me to accept to lose
 
 ![Judo](/media/about/Judo.jpg)
 
-I can proudly say that one thing was always constant in all my life, my passion for IT. So probably I'm one of the few geeks sport addicted.During the day a DevOps unicorn in jacket and tie focus to help organizations and individuals to transform themselves to achieve elite performance.
+I can proudly say that one thing was always constant in all my life, my passion for IT. So probably I'm one of the few geeks sport addicted. During the day a DevOps unicorn in jacket and tie focus to help organizations and individuals to transform themselves to achieve elite performance.
 
 ![MilanoIBM](/media/about/MilanoIBM.jpg)
 
 After work, I'm a sports maniac addicted to speed and martial arts. I love doing Ju-Jitsu and Judo or quitting from the world riding my Ducatis, and last but not least, to close in myself doing cross-fit or hiking. 
 
-![Ferrari](/media/about/Ferrari.jpg)![Hypermotard](/media/about/Hypermotard.jpg)![HypermotardTrip](/media/about/HypermotardTrip.jpg)
+If you wanna know even more about me, take a read of [THIS](/posts/Human%20of%20CIO%20-%20Michele%20Brissoni) interview I did for the IBM CIO Magazine.
+
+![Ferrari](/media/about/Ferrari.jpg)
+![Hypermotard](/media/about/Hypermotard.jpg)
+![HypermotardTrip](/media/about/HypermotardTrip.jpg)
+![BMW](/media/about/BMW.jpg)
+
+
