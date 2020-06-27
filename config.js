@@ -26,7 +26,7 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
-    },
+    }
   ],
   author: {
     name: 'Michele Brissoni',
