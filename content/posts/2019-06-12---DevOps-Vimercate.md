@@ -19,7 +19,7 @@ Was June 2019 when I finally decided to share in a conference with the Italian c
 
 The place, the [Agile venture Vimercate 2019](https://www.agileday.it/venture/2019/vimercate/), where the main topic was 'DevOps answers the call for rapid innovation in fast-changing markets'. Which other places would be better to share my journey? None of course!
 
-![AVV](/media/blogs/2019-06-12---DevOps-Vimercate/IAM_Venture_Vimercate.png)
+[![AVV](/media/blogs/2019-06-12---DevOps-Vimercate/IAM_Venture_Vimercate.png)](https://vimeo.com/346399210)
 
 So I prepared a funny speech cover: 
 
@@ -31,4 +31,4 @@ During the talk I explained what I implemented in IBM CIO, starting in 2017, to 
 
 [Here](https://vimeo.com/346399210) the talk saved on Vimeo.
 
-![Mike](/media/blogs/2019-06-12---DevOps-Vimercate/PHOTO-2019-06-08-20-25-14.jpg)
+[![Mike](/media/blogs/2019-06-12---DevOps-Vimercate/PHOTO-2019-06-08-20-25-14.jpg)](https://vimeo.com/346399210)

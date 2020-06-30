@@ -16,8 +16,20 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Blog',
+      path: '/'
+    },
+    {
       label: 'CV',
       path: '/pages/cv'
+    },
+    {
+      label: 'Conferences',
+      path: '/pages/conferences'
+    },
+    {
+      label: 'Publications',
+      path: '/pages/publications'
     },
     {
       label: 'Portfolio',
@@ -26,10 +38,6 @@ module.exports = {
     {
       label: 'Contact me for',
       path: '/pages/contactMe'
-    },
-    {
-      label: 'Articles',
-      path: '/'
     }
   ],
   author: {

@@ -1,5 +1,6 @@
 import React from 'react';
 import addToMailchimp from 'gatsby-plugin-mailchimp';
+import * as styles from './subscribe.module.scss';
 
 export default class Subscribe extends React.Component {
   constructor() {
@@ -70,24 +71,24 @@ export default class Subscribe extends React.Component {
         {this.state.status === 'success' ? (
           <div>Thank you!</div>
         ) : (
-          <div className="subscribe__image">
-            <hr align="center" width="50%"/>
-            <div className="subscribe__text" style={{ maxWidth: '95%' }}>
-              <img src="/rss-icon.png" alt="rss-icon" style={{ width:48, height:48 }}></img> 
-            </div>
-            <form id='email-capture' method='post' noValidate>
+          <div className={styles.Wrapper}>
+            <form id='email-capture' method='post' noValidat onSubmit={this._handleEmailChange} className={styles.EmailListForm}>
+            <div className={styles.Wrapper}>
               <input
-                style={{ backgroundColor: 'white', width: '90%' }}
+                placeholder="Email address"
+                name="email"
+                type="text"
                 onChange={this._handleEmailChange}
                 required
               />
-              <button onClick={this._handleFormSubmit}>
-                Subscribe
-              </button>
+            </div>
+            <div>
+              <button type="submit" onClick={this._handleFormSubmit}>Subscribe</button>
               {this.state.status === 'error' && (
                 <div dangerouslySetInnerHTML={{ __html: this.state.msg }} />
               )}
-            </form>
+            </div>
+          </form>
           </div>
         )}
       </span>

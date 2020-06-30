@@ -25,4 +25,4 @@ _'Since the time the Agile Manifesto was published in 2001, we have seen the eme
 
 And on a rainy day just before the COVID-19 pandemic emergency, and related Italian lockdown, we went on stage and [HERE](https://vimeo.com/394383045) the recording on Vimeo.
 
-![Mike](/media/blogs/2020-02-02---IAG-Milano/Mike.png)
+[![Mike](/media/blogs/2020-02-02---IAG-Milano/Mike.png)](https://vimeo.com/394383045)
