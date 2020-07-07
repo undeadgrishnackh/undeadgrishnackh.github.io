@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://undeadgrishnackh.github.io/',
+  url: 'https://undeadgrishnackh.netlify.app/',
   pathPrefix: '/',
-  title: 'Michele Brissoni',
-  subtitle: '🤓 SW craftsman 🥋 trainer 🥰 Racing',
+  title: 'Michele Brissoni, passionate eXtreme Programmer and visioner DevOps/SRE Transformation Consultant.',
+  subtitle: 'Agile, Coach, eXtreme Programming, DevOps, SRE, CTO',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
@@ -43,7 +43,7 @@ module.exports = {
   author: {
     name: 'Michele Brissoni',
     photo: '/photo.jpg',
-    bio: '🤓 SW craftsman 🥋 trainer 🥰 Racing',
+    bio: 'Coach, eXtreme Programmer & SW Craftsman, DevOps Lead, Enterprise Transformation Executive',
     contacts: {
       twitter: 'michelebrissoni',
       linkedin: 'michelebrissoni',
