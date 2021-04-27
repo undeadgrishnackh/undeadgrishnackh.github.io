@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://undeadgrishnackh.netlify.app/',
   pathPrefix: '/',
-  title: 'Michele Brissoni, passionate eXtreme Programmer and visioner DevOps/SRE Transformation Consultant.',
-  subtitle: 'Agile, Coach, eXtreme Programming, DevOps, SRE, CTO, martial arts trainer.',
+  title: 'Certified Agile & OKR Coach. eXtreme Programmer & SW Craftsman. DevOps consultant.',
+  subtitle: 'Agile Coach, eXtreme Programming, XP, DevOps, SRE, OKR.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
@@ -43,7 +43,7 @@ module.exports = {
   author: {
     name: 'Michele Brissoni',
     photo: '/photo.jpg',
-    bio: 'Coach, eXtreme Programmer & SW Craftsman, DevOps Lead, Enterprise Transformation Executive, and martial arts trainer 🥋.',
+    bio: 'Certified Agile & OKR Coach. eXtreme Programmer & SW Craftsman. DevOps consultant.',
     contacts: {
       twitter: 'michelebrissoni',
       linkedin: 'michelebrissoni',
